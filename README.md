@@ -10,7 +10,7 @@ Before running this package, it is highly recommended to try the [Unity Robotics
 
 # Tutorial
 
-Clone this project by `git clone --recurse-submodules git@github.com:ZhuoyunZhong/Mobile-Robot-Demo-with-Unity-ROS.git  `
+Clone this project by `git clone --recurse-submodules git@github.com:AmmarMorched/Mobile-Robot-with-Unity.git  `
 
 ### [Part 1: Unity Setup](part1_unity.md) 
 
